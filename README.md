@@ -1,3 +1,5 @@
+# mining dual-wield NTPase
+
 README for structure-mining against AlphaFold protein structure database using foldcomp to find dual-wield NTPase family.
 
 ## contents
