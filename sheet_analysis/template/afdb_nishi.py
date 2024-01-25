@@ -504,7 +504,8 @@ def iterative_search(name,abego,fasta,bfactor,query="BBBEBBGAGAAAAA"):
 #                nstrands
 
 
-execute = "/lab/home/ksakuma/mybin/beta_sheet_analysis/bin/PROG_NAME -w target.pdb"
+#execute = "/lab/home/ksakuma/mybin/beta_sheet_analysis/bin/PROG_NAME -w target.pdb"
+execute = "STRIDE2TOP -w target.pdb"
 
 #option1 = "-w"
 nishi_prog = [execute]
