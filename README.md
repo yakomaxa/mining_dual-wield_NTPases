@@ -12,11 +12,11 @@ sheet_analysis: contatins the script to analyze the beta-sheet architecture agai
 
 find_dual: contains an R-script to select structures. We added test data TestData_only_10000line.csv from which you can extract a dwNTPase among example 10000 lines.
 
-md_script: script templates for running MD using Gromacs
+md_script: script templates for running MD using Gromacs. Force-field file is excluded.
 
-docked_structure: manually docked structure of representative dwNTPase alphafold prediction and putative ligands
+docked_structure: manually docked structure of representative dwNTPase alphafold prediction and putative ligands 
 
-find conserved: script to find conserved residue from MSA fasta
+find_conserved: script to find conserved residue from MSA fasta
 
 The python script in find_ploop (and sheet_analysis as well) should be executed parallely in you need speed. You need to divide index file of foldcomp into chunks.
 
