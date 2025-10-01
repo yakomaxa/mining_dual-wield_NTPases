@@ -24,3 +24,4 @@ The python script in find_ploop (and sheet_analysis as well) should be executed 
 
 MIT license.
 
+AF2 predcition part of dwNTPase should be CC-licensed after original AFDB attribution: "Data is available for academic and commercial use, under a CC-BY-4.0 license."
